@@ -1,0 +1,50 @@
+                                                                                                           Assignment 1
+
+
+Data Science 1
+
+
+Total Score : 90
+
+Instructions
+[ this is an individual assignment ]
+
+
+[ Answer the Following Qestions Subjecive ] 
+
+Q1. what is polymorphism?
+
+[ Select one of the Options [ A - B - C - D ] for the Following Questions ]
+
+Q2. how many years in BS CS?
+A: 1
+B: 3
+C: 2
+D: 4
+
+
+[ Answer By Either True Or False in the following Questions ]
+
+Q3. is fast an private university?
+1. True
+2. False
+
+
+[ Select one of the Options [ A - B - C - D ] for the Following Questions ]
+
+Q4. which is not a programing language?
+A: c++
+B: CSS
+C: Python
+D: Java
+
+ENDDeadline--> 2024 / 12 / 10
+At ------->. 12 : 0 [O.Clock]
+
+Good Luck
+
+
+
+
+
+
